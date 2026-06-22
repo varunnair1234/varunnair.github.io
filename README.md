@@ -13,7 +13,7 @@ B.S. Robotics Engineering | GPA: 3.85 | Sep 2025 – Jun 2029
  
 ## Projects
  
-**Panacea - HackDavis2026**(https://https://github.com/varunnair1234/varunnair.github.io/edit/main/panacea.md)
+[**Panacea - HackDavis2026**](https://https://github.com/varunnair1234/varunnair.github.io/edit/main/panacea.md)
 
 **Harbor - CruzHacks 2026**
  
